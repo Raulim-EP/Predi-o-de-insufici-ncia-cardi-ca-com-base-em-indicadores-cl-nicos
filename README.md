@@ -10,7 +10,7 @@ Com o advento da medicina baseada em dados e das técnicas de Aprendizado de Mac
 1. **Analise dos dataset Heart Failure Clinical Records (UCI):** Foi baixado o dataset, preparado o ambiente de trabalho e analise de dados o dataset.
 2. **Pré-processamento de Dados:**
    * Identificação da variável alvo e tranformação da mesma em fator, deixando de ser binário (0 e 1) e passando a ser Vivo ou Óbito.
-   * Divisão dos valores da variável plaquelets (plaquetas) por mil, reduzindo processamento e sem interferir na triagem médica.
+   * Divisão dos valores da variável platelets (plaquetas) por mil, reduzindo processamento e sem interferir na triagem médica.
    * Divisão do conjunto de dados em partições de treino e teste (80% para treino e 20% para teste).
 3. **Treinamento de Modelos:**
    * Árvore de Decisão: O modelo escolhido foi a árvore de decisão, por sua fácil implementação e transparência, tendo seu treinamento sido efetuado com 80% do dataset.
