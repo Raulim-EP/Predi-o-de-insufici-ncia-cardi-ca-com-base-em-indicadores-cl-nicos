@@ -23,7 +23,7 @@ O notebook estruturado contém o código documentado passo a passo, desde o carr
 
 * **Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOJ2pdN80SzitlOXuLWPS6ELn7cdF86B?usp=sharing)
 
-## 4. Referência ao Dataset Utilizado
+## 4. Dataset utilizado
 O modelo e as análises foram construídos utilizando o conjunto de dados **Heart Failure Clinical Records** (UCI Machine Learning Repository).
 
 ### Atributos do Dataset:
