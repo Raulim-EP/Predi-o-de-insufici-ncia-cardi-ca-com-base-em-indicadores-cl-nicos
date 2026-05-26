@@ -21,7 +21,7 @@ Todo o desenvolvimento prático e visualização gráfica deste projeto foram ce
 
 O notebook estruturado contém o código documentado passo a passo, desde o carregamento do dataset até a plotagem das matrizes de confusão.
 
-* **Acesse o projeto completo aqui:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOJ2pdN80SzitlOXuLWPS6ELn7cdF86B?usp=sharing)
+* **Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOJ2pdN80SzitlOXuLWPS6ELn7cdF86B?usp=sharing)
 
 ## 4. Referência ao Dataset Utilizado
 O modelo e as análises foram construídos utilizando o conjunto de dados **Heart Failure Clinical Records** (UCI Machine Learning Repository).
